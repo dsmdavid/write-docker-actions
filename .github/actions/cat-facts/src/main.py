@@ -3,8 +3,8 @@ import random
 import sys
 
 # Make an HTTP GET request to the cat-fact API
-cat_url = "https://cat-fact.herokuapp.com/facts"
-r = requests.get(cat_url)
+# cat_url = "https://cat-fact.herokuapp.com/facts"
+# r = requests.get(cat_url)
 r_obj_list = ['the app is falling', 'i believe']
 
 # Create an empty list to store individual facts in
